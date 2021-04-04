@@ -1,0 +1,6 @@
+﻿  ProjectG10.cpp
+  main.cpp
+C:\Users\Admin\source\repos\ProjectG10\ProjectG10\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\source\repos\ProjectG10\ProjectG10\main.cpp(24,3): warning C4551: function call missing argument list
+  Generating Code...
+  ProjectG10.vcxproj -> C:\Users\Admin\source\repos\ProjectG10\Debug\ProjectG10.exe
